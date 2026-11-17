@@ -204,3 +204,7 @@ dialog button {
             #666);
     opacity: 0.50;
 }
+
+.show {
+    display: block;
+}
