@@ -1,0 +1,12 @@
+{
+  "name": "golddigger",
+  "version": "1.0.0",
+  "description": "Market for checking Live gold prices",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Maciej",
+  "license": "ISC"
+}
